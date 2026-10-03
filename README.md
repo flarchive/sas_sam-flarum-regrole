@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of sas_sam/flarum-regrole.** Not for installation: use [Packagist](https://packagist.org/packages/sas_sam/flarum-regrole) or the [upstream repository](https://github.com/SasSam/flarum-regrole).
 
-**0** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/sas_sam-flarum-regrole/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/sas_sam-flarum-regrole/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.4` | 2024-03-13 | `^1.0.0` | [Browse](https://github.com/flarchive/sas_sam-flarum-regrole/tree/archive/v1.0.4) |
+| `1.0.5` | 2024-03-14 | `^1.0.0` | [Browse](https://github.com/flarchive/sas_sam-flarum-regrole/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/sas_sam-flarum-regrole.json](https://github.com/flarchive/archive-index/blob/main/packages/sas_sam-flarum-regrole.json)
 
